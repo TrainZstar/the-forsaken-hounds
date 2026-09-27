@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theforsakenhounds.de/sitemap.xml
